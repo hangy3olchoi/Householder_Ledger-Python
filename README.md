@@ -8,6 +8,6 @@
 개발도구: Eclipse, Sqlite3, wxFormBuilder
 
 
-<a href="https://velog.io/@hangy3olchoi/JAVA-FX-%EA%B0%80%EA%B3%84%EB%B6%80-%EC%9D%91%EC%9A%A9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8" target="blank">
+<a href="https://velog.io/@hangy3olchoi/Python-%EA%B0%80%EA%B3%84%EB%B6%80-%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8" target="blank">
   velog에서 자세한 내용 살펴보기.
 </a>
